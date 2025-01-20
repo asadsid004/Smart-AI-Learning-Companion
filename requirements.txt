@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+chromadb
+ollama
+langchain-community
+langchain-core
+langchain-text-splitters
+sentence-transformers
+langchain-ollama
